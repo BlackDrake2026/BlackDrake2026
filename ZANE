@@ -1,10 +1,56 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {margin:0;}
+
+.topnav {
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+
+.topnav a:hover {
+  border-bottom: 3px solid red;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid red;
+}
+</style>
 </head>
 <body>
-<h1>Hello!</h1>
-<p>Hello my name is (Zane)</p>
+
+<div class="topnav">
+  <a href="ROY.html">ROY</a>
+  <a href="CY.html">SY</a>
+  <a href="file:///home/chronos/u-237ea4eac47fc011086a81b382c7065c50c9d2d5/MyFiles/Downloads/CODING/DOMINICK.html">DOMINICK</a>
+</div>
+
+<div style="padding-left:16px">
+  <h2 style="color:cyan">Welcome</h2>
+  <p>Pls Mind Your Manners About My Freinds</p>
+</div>
+
 </body>
-</html>	
+</html>
+
+<style>
+
+body {
+	background-image:
+		url("https://previews.123rf.com/images/samakar/samakar1707/samakar170700299/82062109-vector-drawing-of-the-school-children-on-a-walk.jpg");
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
